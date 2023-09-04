@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shivamshan Sivanesan
 ============================================================================================================================================
 
-Systems engineering student focusing on robotics and AI. Currently looking for a 6-month internship starting in March.
+Intelligent systems engineering student focusing on robotics and AI. Currently looking for a 6-month internship starting in March.
 
 * ✉️  You can contact me at [shivamshan.sivanesan@etu.sorbonne-universite.fr](mailto:shivamshan.sivanesan@etu.sorbonne-universite.fr)
 * 🧠  I'm learning Rust
