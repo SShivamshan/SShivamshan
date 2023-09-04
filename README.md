@@ -5,7 +5,7 @@ Systems engineering student focusing on robotics and AI. Currently looking for a
 
 * ✉️  You can contact me at [shivamshan.sivanesan@etu.sorbonne-universite.fr](mailto:shivamshan.sivanesan@etu.sorbonne-universite.fr)
 * 🧠  I'm learning Rust
-* 🤝  I'm open to collaborating on Autonomous vehicules, indoor navigation for robots, control systems for UAV
+* 🤝  I'm open to collaborating on projects such as Autonomous navigation, indoor navigation for UAV and robots, control systems for UAV and interactive robots
 
 ### Skills
 
