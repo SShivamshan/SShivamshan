@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student in intelligent systems engineering with a specialization in robotics and AI. Currently looking for a 6-month internship starting in March.
 
 * ✉️  You can contact me at [shivamshan.sivanesan@etu.sorbonne-universite.fr](mailto:shivamshan.sivanesan@etu.sorbonne-universite.fr)
-* 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on projects such as Autonomous navigation, control systems for UAV, AI and interactive robots
 
 ### Skills
