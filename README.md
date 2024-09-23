@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shivamshan Sivanesan
 ============================================================================================================================================
 
-Student in intelligent systems engineering with a specialization in robotics and AI. Currently looking for a 6-month internship starting in March.
+Student in intelligent systems engineering with a specialization in robotics and AI. Currently looking for a post in these fields with the possibility to begin immediately.
 
-* ✉️  You can contact me at [shivamshan.sivanesan@etu.sorbonne-universite.fr](mailto:shivamshan.sivanesan@etu.sorbonne-universite.fr)
+* ✉️  You can contact me at [shivamshan.sivanesan@etu.sorbonne-universite.fr](mailto:shivamshan.sivanesan@gmail.com)
 * 🤝  I'm open to collaborating on projects such as Autonomous navigation, control systems for UAV, AI and interactive robots
 
 ### Skills
