@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Student in intelligent systems engineering with a specialization in robotics and AI. Currently looking for a post in these fields with the possibility to begin immediately.
 
-* ✉️  You can contact me at [shivamshan.sivanesan@etu.sorbonne-universite.fr](mailto:shivamshan.sivanesan@gmail.com)
+* ✉️  You can contact me at [shivamshan.sivanesan@gmail.com](mailto:shivamshan.sivanesan@gmail.com)
 * 🤝  I'm open to collaborating on projects such as Autonomous navigation, control systems for UAV, AI and interactive robots
 
 ### Skills
