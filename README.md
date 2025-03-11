@@ -39,8 +39,8 @@ Passionate engineer specializing in robotics, autonomous systems, and artificial
 
 ## Education
 
-- **MSc/MEng in Intelligent Systems Engineering** - Specialization in Robotics & AI
-- **BSc/BEng in Complex Systems Engineering** - Specialization in Industrial robotics
+- **MEng in Intelligent Systems Engineering** - Specialization in Robotics & AI
+- **BEng in Complex Systems Engineering** - Specialization in Industrial robotics
 
 ## Connect With Me
 
